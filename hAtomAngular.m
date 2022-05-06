@@ -1,8 +1,7 @@
 function hAtomAngular()
-%Function written by Hew, Justin Kin Jun
+%Function written by Hew, Justin
 %Started on 4th November 2020, Completed on 6th
-%Written for computational MATLAB assignment for PHYS2150: Methods in
-%Physics I
+
 %Computed spherical harmonics using legendre function as well as its norm
 %squared value
 %Considered that the legendre function does not work for -ve values, a
