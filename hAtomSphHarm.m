@@ -1,4 +1,4 @@
-function hAtomAngular()
+function hAtomSphHarm()
 %Function written by Hew, Justin
 %Started on 4th November 2020, Completed on 6th
 
