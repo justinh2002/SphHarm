@@ -98,8 +98,7 @@ polarplot(theta(:,2),Y(:,2)) %choose an arbitrary number on the surface
 end
 
 %This is an additional segment which shows the code for the evaluation of
-%the legendre function for spherical harmonics; to answer part b of the
-%homework sheet
+%the legendre function for spherical harmonics;
 %I tried to use a nested function but it seemed not to work, an anonymous
 %function is used instead so a file is not created
 %This function is not used as the spherical harmonics is already computed
